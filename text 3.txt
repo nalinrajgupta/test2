@@ -1,2 +1,3 @@
 third file after first commit
 another commit to master
+third commit to master
